@@ -1,0 +1,1 @@
+This is a group project consisting of three members total. The goal was to create a study tool that was useful to students, especially during finals.
